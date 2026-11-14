@@ -1,0 +1,1 @@
+figures/ # generated Notebook figures (+ script mapping)
