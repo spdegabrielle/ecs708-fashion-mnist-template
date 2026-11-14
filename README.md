@@ -1,3 +1,4 @@
+```
 ecs708-fashion-mnist/
 |-- README.md # install, data download, commands, hardware, runtimes
 |-- requirements.txt # pinned versions
@@ -7,3 +8,4 @@ ecs708-fashion-mnist/
 |-- results/ # logs, metrics tables, experiment register
 |-- figures/ # generated Notebook figures (+ script mapping)
 `-- scripts/ # e.g. smoke_run.sh, make_figures.py
+```
